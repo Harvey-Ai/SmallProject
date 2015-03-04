@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "D:\PROGRA~1\my_java\RSP29.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\ACM\MyProjects\windows作业\cir_textout\1.cpp"
+]
+Creating command line "cl.exe @D:\PROGRA~1\my_java\RSP29.tmp" 
+<h3>Output Window</h3>
+Compiling...
+1.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows NT 5.0 and Windows 98 features. When these headers were released,
+Windows NT 5.0 beta 1 and Windows 98 beta 2.1 were the current versions.
+
+For this release when WINVER is defined as 0x0500 or greater, you can only
+build beta or test applications.  To build a retail application,
+set WINVER to 0x0400 or visit http://www.microsoft.com/msdn/sdk
+to see if retail Windows NT 5.0 or Windows 98 headers are available.
+
+See the SDK release notes for more information.
+
+g:\acm\myprojects\windows作业\cir_textout\1.cpp(4) : fatal error C1083: Cannot open include file: 'sysmets.h': No such file or directory
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+1.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

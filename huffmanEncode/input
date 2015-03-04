@@ -1,0 +1,10 @@
+Your program will input data for different sets of stockbrokers. Each set 
+starts with a line with the number of stockbrokers. Following this is a line 
+for each stockbroker which contains the number of people who they have contact 
+with, who these people are, and the time taken for them to pass the message to 
+each person. The format of each stockbroker line is as follows: The line starts 
+with the number of contacts (n), followed by n pairs of integers, one pair for 
+each contact. Each pair lists first a number referring to the contact (e.g. a "
+1" means person number one in the set), followed by the time in minutes taken to
+ pass a message to that person. There are no special punctuation symbols or spacing 
+ ru

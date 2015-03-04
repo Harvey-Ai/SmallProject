@@ -1,0 +1,27 @@
+﻿生成启动时间为 2012-3-14 4:23:07。
+     1>项目“F:\技术类小程序\2007 windows程序设计\程序源码\5.定时器编程\timer\timer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\timer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\file programmes\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\Beeper1\Beeper1.c
+         Beeper1.c
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\timer.exe.embed.manifest.res" .\Debug\timer_manifest.rc 
+       Link:
+         D:\file programmes\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\timer.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\timer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\技术类小程序\2007 windows程序设计\程序源码\5.定时器编程\timer\Debug\timer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\timer.lib" /MACHINE:X86 .\Debug\timer.exe.embed.manifest.res
+         .\Debug\Beeper1.obj
+     1>LINK : warning LNK4076: 增量状态文件“.\Debug\timer.ilk”无效(将删除)；正以非增量方式链接
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\timer.exe.embed.manifest" /manifest .\Debug\timer.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\timer.exe.embed.manifest.res" .\Debug\timer_manifest.rc 
+       LinkEmbedManifest:
+         所有输出均为最新。
+         timer.vcxproj -> F:\技术类小程序\2007 windows程序设计\程序源码\5.定时器编程\timer\.\Debug\timer.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\timer.unsuccessfulbuild”。
+         正在对“.\Debug\timer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\技术类小程序\2007 windows程序设计\程序源码\5.定时器编程\timer\timer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.96
