@@ -1,4 +1,5 @@
-C++_study
+SmallProject
+
 Version: 1.0
 Release date: Aug 26, 2014
 ----------------------------------------------------------------------------
@@ -29,4 +30,4 @@ Authors make no representations about the suitability or fitness of this softwar
 
 Authors
 -------
-Ai hongwei
+Hongwei Ai

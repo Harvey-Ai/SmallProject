@@ -1,6 +1,9 @@
 SampleCode
 ========
-Personal code archive.
+
+Harvey-Ai's small project code, for learning and practice.
+
+All Rights Reserved.
 
 Content
 ---------
