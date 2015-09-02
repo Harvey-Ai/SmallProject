@@ -1,4 +1,4 @@
-SampleCode
+SmallProject
 ========
 
 Harvey-Ai's small project code, for learning and practice.
